@@ -85,7 +85,6 @@ const ListItems = ({ item }) => {
         },
 
         containertext: {
-          backgroundColor: 'blue',
           width: '70%',
           
         },
@@ -108,7 +107,6 @@ const ListItems = ({ item }) => {
         },
 
         containeradress: {
-          backgroundColor: 'yellow',
           flexDirection: 'row',
           marginLeft: 10,
           marginBottom: 5,
@@ -120,31 +118,26 @@ const ListItems = ({ item }) => {
         },
 
         containerhouse: {
-          backgroundColor: 'red',
           flexDirection: 'row',
         },
 
         containerrooms: {
-          backgroundColor: 'purple',
           flexDirection: 'row',
           flex: 0.8,
           marginStart: 10,
         },
 
         containerwc: {
-          backgroundColor: 'pink',
           flexDirection: 'row',    
           flex: 0.8 
         },
 
         containerft: {
-          backgroundColor: 'orange',
           flexDirection: 'row',
           flex: 1
         },
 
         containerrent: {
-          backgroundColor: 'lightblue',
           flexDirection: 'row',
         },
 
@@ -165,14 +158,12 @@ const ListItems = ({ item }) => {
 
         textrent: {
           fontSize: 26,
-          backgroundColor: 'white',
           fontWeight: 'bold',
           flex: 1,
           marginStart: 10,
         },       
 
         iconheart: {
-          backgroundColor: 'black',
           flex: 0.2,
         }
     })

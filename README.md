@@ -47,4 +47,4 @@ npm test
 - [@Manz1999](https://github.com/Manz1999)
     
 ## Insignias
-  
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/be9ebe1f835d435e8c2c07b7beb3ba8c)](https://www.codacy.com/gh/BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-Manz1999/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-Manz1999&amp;utm_campaign=Badge_Grade)

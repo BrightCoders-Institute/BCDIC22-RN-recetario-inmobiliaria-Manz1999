@@ -2,6 +2,8 @@
 
 # App Inmobiliaria
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8e2b0322cb074f3781f6ebe0c961a1ca)](https://app.codacy.com/gh/BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-Manz1999?utm_source=github.com&utm_medium=referral&utm_content=BrightCoders-Institute/BCDIC22-RN-recetario-inmobiliaria-Manz1999&utm_campaign=Badge_Grade_Settings)
+
 - [Ver instrucciones](./instructions.md)
 
 ## Tabla de contenidos
